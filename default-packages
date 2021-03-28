@@ -1,0 +1,17 @@
+# $NVM_DIR/default-packages
+# https://github.com/creationix/nvm#default-global-packages-from-file-while-installing
+
+
+create-react-app@latest
+#fkill-cli@latest
+#fx@latest
+#flow-typed@latest
+#generator-generator@latest
+#jay@latest
+#jest@latest
+#mdx-deck@latest
+#node-red@latest
+#now@latest
+npm-check-updates@latest
+#prettier@latest
+#yo@latest
